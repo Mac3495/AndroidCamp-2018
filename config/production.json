@@ -1,14 +1,14 @@
 {
   "basepath": "/",
-  "url": "https://hoverboard-master.firebaseapp.com/",
+  "url": "https://android-camp-2018.firebaseapp.com/",
   "analytics": "UA-43643469-9",
   "prefix": "/",
   "firebase": {
-    "apiKey": "AIzaSyCaSkhtHekxAqXXzzbuNs2s6CpGdhZdta8",
-    "authDomain": "hoverboard-master.firebaseapp.com",
-    "databaseURL": "https://hoverboard-master.firebaseio.com",
-    "projectId": "hoverboard-master",
-    "storageBucket": "hoverboard-master.appspot.com",
+    "apiKey": "AIzaSyC9FfydlMHVG0lnEowqjPoXFvh-NB4b5lk",
+    "authDomain": "android-camp-2018.firebaseapp.com",
+    "databaseURL": "https://android-camp-2018.firebaseio.com",
+    "projectId": "android-camp-2018",
+    "storageBucket": "android-camp-2018.appspot.com",
     "messagingSenderId": "516409946568"
   },
   "googleMapApiKey": "AIzaSyDWy6O98n-ueoVaYPWRPve23vjm3JP08gw"
