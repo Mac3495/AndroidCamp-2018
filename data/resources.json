@@ -146,15 +146,15 @@
   "ticketsBlock": {
     "title": "Tickets",
     "ticketsDetails": "Entradas para el camp to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "You missed it!",
-    "notAvailableYet": "Not available yet",
+    "soldOut": "Agotadas",
+    "notAvailableYet": "No disponibles",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Partners",
+    "title": "Patrocinadores",
     "button": "Become a partner",
     "form": {
-      "title": "Become a partner!",
+      "title": "conviertete en Patrocinador!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
@@ -207,7 +207,7 @@
     }
   },
   "mapBlock": {
-    "title": "Location"
+    "title": "¿Dónde será?"
   },
   "subscribeBlock": {
     "callToAction": {
@@ -218,7 +218,7 @@
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Android Camp sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",

@@ -16,7 +16,7 @@
     "locale": "en-US"
   },
   "hashtag": "DevFest17",
-  "disabledSchedule": false,
+  "disabledSchedule": true,
   "navigation": [
     {
       "route": "home",
@@ -126,7 +126,7 @@
       "latitude": 48,
       "longitude": 8
     },
-    "description": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event"
+    "description": "La universidad Ucatec... Añadir descripción"
   },
   "mediaQueries": {
     "xs": {
