@@ -162,10 +162,10 @@
     "toast": "We will contact you soon!"
   },
   "featuredVideos": {
-    "title": "DFUA'16 featured videos",
+    "title": "Android Camp 2016 videos destacados",
     "callToAction": {
-      "label": "See all videos",
-      "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+      "label": "Ver todos los videos",
+      "link": "https://www.youtube.com/playlist?list=PLQyfVMYAtNf2-V9FyqgNBMYcGo1BMYnE7"
     }
   },
   "blog": {
