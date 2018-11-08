@@ -5,10 +5,10 @@
   "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
   "dates": "Diciembre 21-22-23, 2018",
   "partnershipProposition": "https://bit.ly/dfua17-partners",
-  "share": "Share",
-  "followOur": "Follow our",
-  "followUs": "Follow us",
-  "emailUs": "Email us",
+  "share": "Comparte",
+  "followOur": "Sigue nuestro",
+  "followUs": "Siguenos",
+  "emailUs": "Escribenos un email",
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Buy ticket",
@@ -33,11 +33,11 @@
   },
   "footerRelBlock": [
     {
-      "title": "About",
+      "title": "Acerca de",
       "links": [
         {
-          "name": "GDG Lviv",
-          "url": "http://lviv.gdg.org.ua/",
+          "name": "GDG Android Bolivia",
+          "url": "https://gdg.androidbolivia.com/",
           "newTab": true
         },
         {
@@ -46,14 +46,14 @@
           "newTab": true
         },
         {
-          "name": "Meet the Team",
-          "url": "https://devfest.gdg.org.ua/team/",
+          "name": "Conoce al equipo",
+          "url": "https://gdg.androidbolivia.com/about/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Explore Past DevFests",
+      "title": "Explora pasados Camp",
       "links": [
         {
           "name": "DFUA 2013",
@@ -66,19 +66,19 @@
           "newTab": true
         },
         {
-          "name": "DFUA 2015",
-          "url": "https://dfua15.firebaseapp.com/",
+          "name": "Android Camp 2016",
+          "url": "https://www.youtube.com/playlist?list=PLQyfVMYAtNf2-V9FyqgNBMYcGo1BMYnE7",
           "newTab": true
         },
         {
-          "name": "DFUA 2016",
-          "url": "https://dfua16.firebaseapp.com/",
+          "name": "Android Camp 2017",
+          "url": "https://android-camp-2017.firebaseapp.com/",
           "newTab": true
         }
       ]
     },
     {
-      "title": "Event Resources",
+      "title": "Recursos para eventos",
       "links": [
         {
           "name": "Partnership Proposition",
@@ -86,8 +86,8 @@
           "newTab": true
         },
         {
-          "name": "Info Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
+          "name": "¿Quieres ser nuestro patrocinador?",
+          "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQCX476CBIDnjG7n3uL2IJIgbnqiVdzAOO2DpxUC7vvJvqw/viewform",
           "newTab": true
         },
         {
@@ -108,13 +108,13 @@
       ]
     }
   ],
-  "subscribeNote": "No spam, only the latest news and updates!",
+  "subscribeNote": "!No spam, solo las últimas noticias y actualizaciones!",
   "codeOfConduct": "Code of Conduct",
   "aboutBlock": {
     "title": "Lo que tu necesitas saber.",
     "callToAction": {
       "featuredSessions": {
-        "description": "GDG DevFest Android Camp brings together the world class experts in Android, Web and Cloud technologies to Lviv for 2 days of sessions, workshops and showcases.",
+        "description": "GDG DevFest Android Camp reúne a los expertos de clase mundial en tecnologías de Android, Web y Cloud en Lviv durante 2 días de sesiones, talleres y vitrinas.",
         "label": "Explore featured session",
         "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
       },
@@ -146,15 +146,15 @@
   "ticketsBlock": {
     "title": "Tickets",
     "ticketsDetails": "Entradas para el camp to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
-    "soldOut": "Agotadas",
-    "notAvailableYet": "No disponibles",
+    "soldOut": "You missed it!",
+    "notAvailableYet": "Not available yet",
     "save": "Save ${discount}% today"
   },
   "partnersBlock": {
-    "title": "Patrocinadores",
+    "title": "Partners",
     "button": "Become a partner",
     "form": {
-      "title": "conviertete en Patrocinador!",
+      "title": "Become a partner!",
       "submitLabel": "Submit",
       "fullName": "Full Name",
       "companyName": "Company Name"
@@ -207,18 +207,18 @@
     }
   },
   "mapBlock": {
-    "title": "¿Dónde será?"
+    "title": "Location"
   },
   "subscribeBlock": {
     "callToAction": {
       "description": "Get notified about the important conference updates",
       "label": "Subscribe"
     },
-    "yourEmail": "Your email",
+    "yourEmail": "Correo electrónico",
     "emailAddress": "Email Address",
     "firstName": "First Name",
     "lastName": "Last Name",
-    "formTitle": "Get the latest updates, insights and news about GDG DevFest Android Camp sent to your inbox.",
+    "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
