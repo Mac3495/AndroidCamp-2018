@@ -56,11 +56,6 @@
       "title": "Explora pasados Camp",
       "links": [
         {
-          "name": "DFUA 2014",
-          "url": "https://dfua14.firebaseapp.com//",
-          "newTab": true
-        },
-        {
           "name": "Android Camp 2016",
           "url": "https://www.youtube.com/playlist?list=PLQyfVMYAtNf2-V9FyqgNBMYcGo1BMYnE7",
           "newTab": true
@@ -76,29 +71,9 @@
       "title": "Recursos para eventos",
       "links": [
         {
-          "name": "Partnership Proposition",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
           "name": "¿Quieres ser nuestro patrocinador?",
           "url": "https://docs.google.com/forms/d/e/1FAIpQLSeHQCX476CBIDnjG7n3uL2IJIgbnqiVdzAOO2DpxUC7vvJvqw/viewform",
           "newTab": true
-        },
-        {
-          "name": "Media Kit",
-          "url": "https://devfest.gdg.org.ua/assets/GDG_DevFest_2016_partnership_proposition.pdf",
-          "newTab": true
-        },
-        {
-          "name": "Call for Papers",
-          "url": "https://drive.google.com/open?id=10tPuu_7ASM8C70SotqRqIW5Uzos9BzALilMMQPg_JvA",
-          "newTab": true
-        },
-        {
-          "name": "FAQs",
-          "url": "/faq/",
-          "newTab": false
         }
       ]
     }
@@ -254,18 +229,18 @@
     "image": "/images/team.jpg",
     "blocks": [
       {
-        "title": "Organizer",
-        "description": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
+        "title": "Organizador",
+        "description": "<a href='https://gdg.androidbolivia.com/' target='_blank'>GDG Andorid Bolivia</a> con el apoyo de Woman Techmakers Wonder City es un orgulloso organizador del Android Camp",
         "callToAction": {
-          "label": "Open team page",
+          "label": "Abrir página del equipo",
           "link": "/team"
         }
       },
       {
-        "title": "What is GDG?",
-        "description": "Google Developers Group (GDG) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion",
+        "title": "¿Qué es GDG?",
+        "description": "Google Developers Group (GDG): es una comunidad geek abierta y voluntaria que crea proyectos interesantes y comparte la experiencia sobre las tecnologías de Google con pasión.",
         "callToAction": {
-          "label": "Read more",
+          "label": "Lee más",
           "link": "https://developers.google.com/groups/",
           "newTab": true
         }
