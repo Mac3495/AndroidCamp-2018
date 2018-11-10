@@ -12,8 +12,8 @@
   "partnershipResources": "Partnership Resources",
   "eventResources": "Event Resources",
   "buyTicket": "Comprar Ticket",
-  "signIn": "Sign in",
-  "signOut": "Sign out",
+  "signIn": "Registrate",
+  "signOut": "Salir",
   "viewHighlights": "Ver",
   "offlineMessage": "You can still work offline.",
   "cachingComplete": "Caching complete! Future visits will work offline.",
@@ -85,13 +85,13 @@
     "callToAction": {
       "featuredSessions": {
         "description": "GDG DevFest Android Camp reúne a los expertos de clase mundial en tecnologías de Android, Web y Cloud en Cochabamba durante 3 días de sesiones, talleres y networking.",
-        "label": "Explore featured session",
-        "link": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AouwDkbLbLARlQFwNS2en"
+        "label": "Explorar sesión destacada",
+        "link": "https://www.youtube.com/watch?v=P3JksRZd3Z4&list=PLQyfVMYAtNf2-V9FyqgNBMYcGo1BMYnE7"
       },
       "howItWas": {
         "description": "El Android Camp es el mejor lugar para compartir experiencias sobre temas de tecnología en un ambiente fenomenal.",
-        "label": "See how it was in 2016",
-        "youtubeId": "TdpbgRgz6eE"
+        "label": "Mira cómo fue en 2016",
+        "youtubeId": "gFOZ9eBuPww"
       }
     },
     "statisticsBlock": {
@@ -124,12 +124,12 @@
     "title": "Patrocinadores",
     "button": "Conviértete en patrocinador",
     "form": {
-      "title": "Become a partner!",
-      "submitLabel": "Submit",
-      "fullName": "Full Name",
-      "companyName": "Company Name"
+      "title": "¡Conviértete en patrocinador!",
+      "submitLabel": "Enviar",
+      "fullName": "Nombre completo",
+      "companyName": "Nombre de empresa"
     },
-    "toast": "We will contact you soon!"
+    "toast": "¡Nos pondremos en contacto con usted pronto!"
   },
   "featuredVideos": {
     "title": "Android Camp 2016 videos destacados",
@@ -185,14 +185,14 @@
       "label": "Suscribete"
     },
     "yourEmail": "Correo electrónico",
-    "emailAddress": "Email Address",
+    "emailAddress": "Correo electrónico",
     "firstName": "First Name",
     "lastName": "Last Name",
     "formTitle": "Get the latest updates, insights and news about GDG DevFest Ukraine sent to your inbox.",
     "emailRequired": "Please enter a valid email address.",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
-    "close": "Close",
+    "close": "Cancelar",
     "generalError": "Some error has occured. Please, try again later.",
     "toast": "Successfully subscribed!"
   },

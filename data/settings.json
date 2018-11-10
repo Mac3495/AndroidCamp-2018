@@ -21,7 +21,7 @@
     {
       "route": "home",
       "permalink": "/",
-      "label": "Home"
+      "label": "Inicio"
     },
     {
       "route": "speakers",
@@ -31,12 +31,12 @@
     {
       "route": "schedule",
       "permalink": "/schedule/",
-      "label": "Schedule"
+      "label": "Programa"
     },
     {
       "route": "team",
       "permalink": "/team/",
-      "label": "Team"
+      "label": "Equipo"
     },
     {
       "route": "blog",
@@ -103,7 +103,7 @@
       "fontColor": "#424242"
     },
     "cod": {
-      "title": "Code Of Conduct",
+      "title": "Código de conducta",
       "metaDescription": "Lear more about our expectations for all those who participate in our community",
       "background": {
         "color": "#fff"
