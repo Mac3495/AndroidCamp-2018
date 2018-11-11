@@ -139,13 +139,13 @@
     }
   },
   "blog": {
-    "published": "Published",
-    "suggested": "Up next"
+    "published": "Publicado",
+    "suggested": "Ver otras noticias"
   },
   "latestPostsBlock": {
-    "title": "The latest news",
+    "title": "Últimas noticias",
     "callToAction": {
-      "label": "View all stories",
+      "label": "Ver todas las historias",
       "link": "/blog/"
     }
   },
