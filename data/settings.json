@@ -113,20 +113,20 @@
   },
   "location": {
     "label": "Location",
-    "name": "Planeta kino",
+    "name": "Ucatec",
     "city": "Cbba",
-    "short": "Lviv, Ukraine",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
+    "short": "Cochabamba, Bolivia",
+    "address": "Guillermo Anez, Cochabamba",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": -17.3710006,
+      "longitude": -66.1370464,
       "zoom": 5
     },
     "mapCenter": {
-      "latitude": 48,
-      "longitude": 8
+      "latitude": -17.3816297,
+      "longitude": -66.1547582
     },
-    "description": "La universidad Ucatec... Añadir descripción"
+    "description": "La universidad Ucatec será la cede del Android Camp 2018"
   },
   "mediaQueries": {
     "xs": {
@@ -167,7 +167,7 @@
         "url": "https://www.youtube.com/channel/UCzhAkMZmIuIwl5c4oTQFCkw"
       }
     ],
-    "share": [
+    "share":[
       {
         "name": "gplus",
         "url": "https://plus.google.com/share?url="
