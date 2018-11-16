@@ -197,7 +197,7 @@
     "toast": "!Suscrito con éxito!"
   },
   "team": {
-    "description": "Google es conocido en todo el mundo. Todos están 'buscando' en Google, revisando 'mapas' y comunicándose en 'gmail'. Para usuarios simples, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más: API, problemas de escalabilidad, pilas de tecnología complejas. Y de eso se trata GDG. <br> <br> [Google Developers Group (GDG) Android Bolivia] (https://gdg.androidbolivia.com/) - es una comunidad de geek abierta y voluntaria que crea proyectos emocionantes y comparte experiencias Acerca de las tecnologías de Google con pasión. <br> <br> Nuestro objetivo es organizar un espacio para conectar a los mejores expertos de la industria con la audiencia de Bolivia para impulsar el desarrollo."
+    "description": "Google es conocido en todo el mundo. Todos están 'buscando' en Google, revisando 'mapas' y comunicándose en 'gmail'. Para usuarios simples, son servicios que simplemente funcionan, pero no para nosotros. Los desarrolladores ven mucho más: API, problemas de escalabilidad, pilas de tecnología complejas. Y de eso se trata GDG. <br> <br> [Google Developers Group (GDG) Android Bolivia](https://gdg.androidbolivia.com/) - es una comunidad de geek abierta y voluntaria que crea proyectos emocionantes y comparte experiencias Acerca de las tecnologías de Google con pasión. <br> <br> Nuestro objetivo es organizar un espacio para conectar a los mejores expertos de la industria con la audiencia de Bolivia para impulsar el desarrollo."
   },
   "schedule": {
     "saveSessionsSignedOut": "Sign in to save sessions"
