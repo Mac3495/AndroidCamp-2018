@@ -48,7 +48,7 @@
     "home": {
       "description": "Se un héroe! Se un GDG!",
       "background": {
-        "color": "#673ab7",
+        "color": "#00701a",
         "image": "/images/backgrounds/home.jpg"
       },
       "fontColor": "#FFF"
