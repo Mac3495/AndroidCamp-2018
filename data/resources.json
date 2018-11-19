@@ -162,9 +162,9 @@
     }
   },
   "previousSpeakersBlock": {
-    "title": "Previous speakers",
+    "title": "Anteriores speakers",
     "callToAction": {
-      "label": "View all",
+      "label": "Ver todos",
       "link": "/previous-speakers/"
     }
   },
