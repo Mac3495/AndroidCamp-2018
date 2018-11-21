@@ -1,52 +1,54 @@
-### 1. Purpose
+### 1. Propósito
 
-A primary goal of [GDG Lviv](http://lviv.gdg.org.ua/) is to be inclusive to the largest number of contributors, with the most varied and diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof). 
-GDG Lviv prides itself on being an open, respectful, and inclusive community. That means the [jerky behavior](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) isn’t allowed at GDG meetings.
+Un objetivo principal de [GDG Android Bolivia](https://gdg.androidbolivia.com/) es incluir al mayor número de contribuyentes, con los antecedentes más variados y diversos posibles. Como tal, estamos comprometidos a proporcionar un ambiente amigable, seguro y acogedor para todos, sin importar el género, la orientación sexual, la capacidad, el origen étnico, el estatus socioeconómico y la religión (o la falta de ellos).
+GDG Lviv se enorgullece de ser una comunidad abierta, respetuosa e inclusiva. Eso significa que el [comportamiento desigual](https://meta.wikimedia.org/wiki/Don%27t_be_a_jerk) no está permitido en las reuniones de GDG.
 
-This code of conduct outlines our expectations for all those who participate in our community, as well as the consequences for unacceptable behavior.
-We invite all those who participate in Google Developers Group to help us create safe and positive experiences for everyone.
+Este código de conducta describe nuestras expectativas para todos aquellos que participan en nuestra comunidad, así como las consecuencias de un comportamiento inaceptable.
+Invitamos a todos aquellos que participan en el Grupo de Desarrolladores de Google para ayudarnos a crear experiencias seguras y positivas para todos.
 
-### 2. Open [Source/Culture/Tech] Citizenship
+### 2. Ciudadanía Abierta [Fuente/Cultura/Tecnología]
 
-A supplemental goal of this Code of Conduct is to increase open [source/culture/tech] citizenship by encouraging participants to recognize and strengthen the relationships between our actions and their effects on our community. Communities mirror the societies in which they exist, and positive action is essential to counteract the many forms of inequality and abuses of power that exist in society. If you see someone who is making an extra effort to ensure our community is welcoming, friendly, and encourages all participants to contribute to the fullest extent, we want to know.
+Un objetivo adicional de este Código de conducta es aumentar la ciudadanía abierta [fuente/cultura/tecnología] al alentar a los participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad. Las comunidades reflejan las sociedades en las que existen, y una acción positiva es esencial para contrarrestar las muchas formas de desigualdad y abusos de poder que existen en la sociedad. Si ve a alguien que está haciendo un esfuerzo adicional para garantizar que nuestra comunidad sea acogedora, amigable y alienta a todos los participantes a contribuir en la mayor medida posible, queremos saberlo.
 
-### 3. Expected Behavior
+### 3. Comportamiento esperado
 
-The following behaviors are expected and requested of all community members:
+Se esperan y solicitan los siguientes comportamientos de todos los miembros de la comunidad:
 
-- Participate in an authentic and active way. In doing so, you contribute to the health and longevity of this community.
-- Exercise consideration and respect in your speech and actions.
-- Attempt collaboration before a conflict.
-- Refrain from demeaning, discriminatory, or harassing behavior and speech.
-- Be mindful of your surroundings and your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
+- Participa de forma auténtica y activa. Al hacerlo, contribuyes a la salud y la longevidad de esta comunidad.
+- Ejercita consideración y respeto en tu discurso y acciones.
+- Intenta la colaboración ante un conflicto.
+- Abstenerse de comportamientos y palabras degradantes, discriminatorias o acosadoras.
+- Sea consciente de su entorno y de sus compañeros participantes. Alerte a los líderes de la comunidad si observa una situación peligrosa, alguien en peligro, o violaciones de este Código de conducta, incluso si parecen intrascendentes.
 
-### 4. Unacceptable Behavior
+### 4. Comportamiento inaceptable
 
-The following actions are considered harassment and are unacceptable within our community:
+Las siguientes acciones se consideran acoso y son inaceptables dentro de nuestra comunidad:
 
-- Violence, threats of violence or violent language directed against another person.
-- Sexist, racist, homophobic, transphobic, ableist or otherwise discriminatory jokes and language.
-- Posting or displaying sexually explicit or violent material.
-- Posting or threatening to post other people’s personally identifying information ("doxing").
-- Personal insults, particularly those related to gender, sexual orientation, race, religion, or disability.
-- Inappropriate photography or recording.
-- Inappropriate physical contact. You should have someone’s consent before touching them.
-- Unwelcome sexual attention. This includes sexualized comments or jokes; inappropriate touching, groping, and unwelcomed sexual advances.
-- Deliberate intimidation, stalking or following (online or in person).
-- Advocating for, or encouraging, any of the above behavior.
-- Sustained disruption of community events, including talks and, presentations.
+- Violencia, amenazas de violencia o lenguaje violento dirigido contra otra persona.
+- Chistes y lenguaje sexistas, racistas, homófobos, transfóbicos, capaces o discriminatorios.
+- Publicar o mostrar material sexualmente explícito o violento.
+- Publicar o amenazar con publicar información de identificación personal de otras personas ("doxing").
+- Insultos personales, particularmente aquellos relacionados con el género, orientación sexual, raza, religión o discapacidad.
+- Fotografía o grabación inadecuada.
+- Contacto físico inadecuado. Debes tener el consentimiento de alguien antes de tocarlos.
+- Atención sexual no deseada. Esto incluye comentarios o chistes sexualizados; Tocar inapropiadamente, a tientas, y avances sexuales mal recibidos.
+- Intimidación deliberada, acoso o seguimiento (en línea o en persona).
+- Abogar por, o alentar, cualquiera de los comportamientos anteriores.
+- Interrupción sostenida de eventos comunitarios, incluyendo charlas y presentaciones.
 
-###  5. Consequences of Unacceptable Behavior
+###  5. Consecuencias del comportamiento inaceptable
 
-Unacceptable behavior from any community member, including sponsors and those with decision-making authority, will not be tolerated.
-Anyone asked to stop unacceptable behavior is expected to comply immediately.
-If a community member engages in unacceptable behavior, the community organizers may take any action they deem appropriate, up to and including a temporary ban or permanent expulsion from the community without warning (and without refund in the case of a paid event.
+No se tolerará el comportamiento inaceptable de ningún miembro de la comunidad, incluidos los patrocinadores y aquellos con autoridad para tomar decisiones.
+Se espera que cualquier persona que pida que se detenga un comportamiento inaceptable cumpla inmediatamente.
+Si un miembro de la comunidad se involucra en un comportamiento inaceptable, los organizadores de la comunidad pueden tomar cualquier acción que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente de la comunidad sin previo aviso (y sin reembolso en el caso de un evento pagado).
 
-### 6. Scope
+### 6. Alcance
 
-We expect all community participants to abide by this Code of Conduct in all community venues–online and in-person–as well as in all one-on-one communications about community business. This code of conduct and its related procedures also applies to unacceptable behavior occurring outside the scope of community activities when such behavior has the potential to affect the safety and well-being of community members adversely.
+Esperamos que todos los participantes de la comunidad cumplan con este Código de conducta en todos los lugares de la comunidad, en línea y en persona, así como en todas las comunicaciones individuales sobre negocios de la comunidad. Este código de conducta y sus procedimientos relacionados también se aplican al comportamiento inaceptable que se produce fuera del alcance de las actividades de la comunidad cuando dicho comportamiento tiene el potencial de afectar negativamente la seguridad y el bienestar de los miembros de la comunidad.
 
-### 7. Contact info
+### 7. Datos de contacto
 
 - Oleh Zasadnyy, +38 093 486 64 60, [o.zasadnyy@gdg.org.ua](mailto:o.zasadnyy@gdg.org.ua)
+- Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
+- Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
 - Sofiya Huts, +38 093 486 14 25, [s.huts@gdg.org.ua](mailto:s.huts@gdg.org.ua)
