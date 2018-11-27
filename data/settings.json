@@ -108,7 +108,7 @@
   },
   "location": {
     "label": "Location",
-    "name": "Ucatec",
+    "name": "UCATEC",
     "city": "Cbba",
     "short": "Cochabamba, Bolivia",
     "address": "Guillermo Anez, Cochabamba",
@@ -121,7 +121,7 @@
       "latitude": -17.3816297,
       "longitude": -66.1547582
     },
-    "description": "La universidad Ucatec será la cede del Android Camp 2018"
+    "description": "La universidad Ucatec será la sede del Android Camp 2018"
   },
   "mediaQueries": {
     "xs": {
