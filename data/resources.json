@@ -203,13 +203,13 @@
     "saveSessionsSignedOut": "Sign in to save sessions"
   },
   "sessionDetails": {
-    "contentLevel": "Content level",
+    "contentLevel": "Nivel del contenido",
     "viewPresentation": "View presentation",
     "viewVideo": "View video",
     "speakers": "Speakers"
   },
   "speakerDetails": {
-    "sessions": "Sessions"
+    "sessions": "Sesiones"
   },
   "notifications": {
     "default": "Enable notifications",
