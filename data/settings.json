@@ -16,7 +16,7 @@
     "locale": "es-Spanish"
   },
   "hashtag": "DevFest18",
-  "disabledSchedule": true,
+  "disabledSchedule": false,
   "navigation": [
     {
       "route": "home",
@@ -27,6 +27,11 @@
       "route": "speakers",
       "permalink": "/speakers/",
       "label": "Speakers"
+    },
+    {
+      "route": "schedule",
+      "permalink": "/schedule/",
+      "label": "Programa"
     },
     {
       "route": "team",
@@ -208,7 +213,7 @@
   },
   "contentLoaders": {
     "schedule": {
-      "itemsCount": 2
+      "itemsCount": 5
     },
     "blog": {
       "itemsCount": 3
